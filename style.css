@@ -1,0 +1,39 @@
+
+body{
+    background-color:#028391;
+}
+h1{
+    color: teal;
+    background-color:papayawhip;
+    font-family: Libre Baskerville, serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+body{font-family: Libre Baskerville, serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+.main {
+    color:antiquewhite ;
+    background-color: darkseagreen;
+}
+img{
+    color:gray;
+    border: 5px solid black;
+    padding: 5px;
+    margin-left: 50px;
+
+}
+a {
+    color:#7AB2B2;
+    background-color:#074173;
+}
+.bottom{
+    text-align: right;
+}
+.text{
+    text-align: center;
+
+}
