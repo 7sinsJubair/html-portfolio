@@ -1,6 +1,6 @@
 
 body{
-    background-color:#028391;
+    background-color:#373A40;
 }
 h1{
     color: teal;
@@ -8,6 +8,7 @@ h1{
     font-family: Libre Baskerville, serif;
     font-weight: 700;
     font-style: normal;
+    text-align: center;
 
 }
 body{font-family: Libre Baskerville, serif;
@@ -17,18 +18,18 @@ body{font-family: Libre Baskerville, serif;
 }
 .main {
     color:antiquewhite ;
-    background-color: darkseagreen;
+    background-color:#7AB2B2;
 }
 img{
     color:gray;
-    border: 5px solid black;
     padding: 5px;
-    margin-left: 50px;
+    position: relative;
+    left: 30px;
+   
 
 }
 a {
-    color:#7AB2B2;
-    background-color:#074173;
+    color:#FF204E;
 }
 .bottom{
     text-align: right;
@@ -37,3 +38,22 @@ a {
     text-align: center;
 
 }
+.text2{
+    text-align: center;
+}
+
+.footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 50px
+    
+}
+
+.mainz{
+    display: flex;
+    gap: 100px;
+}
+h2{
+    text-align: center;
+}
+
